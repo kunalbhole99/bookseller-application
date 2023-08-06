@@ -1,7 +1,7 @@
 # bookseller-application
 Bookselller serverless application deployed on AWS using different services
 
-``Application Architecture``
+* ``Application Architecture``
 
 
 ![Application Architecture](https://github.com/kunalbhole99/bookseller-application/assets/113830783/12d6aa08-ee5a-4333-9351-d2ad28a995a5)
@@ -21,4 +21,4 @@ Bookselller serverless application deployed on AWS using different services
 ![Proposed](https://github.com/kunalbhole99/bookseller-application/assets/113830783/bace0f47-5ff9-4720-a071-ffd1e685fb17)
 
 
-## Lambda Functions Workflow
+## * Lambda Functions Workflow
