@@ -8,10 +8,12 @@ Bookselller serverless application deployed on AWS using different services
 
 
 
-* ``Flow Diagram``
+
+* ##``Flow Diagram``
 
 
 ![Flow Diagram (User)](https://github.com/kunalbhole99/bookseller-application/assets/113830783/3504e87d-38ff-4a73-a53d-4291f3b89f5c)
+
 
 
 
